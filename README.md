@@ -4,9 +4,9 @@
 
 ## 介绍
 
-    Julia是一种高级通用动态编程语言，它最初是为了满足高性能数值分析和计算科学的需要而设计的，不需要分别编译速度快，也可用于客户端和服务器的Web用途、低级系统编程或用作规约语言。
+Julia是一种高级通用动态编程语言，它最初是为了满足高性能数值分析和计算科学的需要而设计的，不需要分别编译速度快，也可用于客户端和服务器的Web用途、低级系统编程或用作规约语言。
 
-    Julia设计的独特之处包括，参数多态的类型系统，完全动态语言中的类型，以及它多分派的核心编程范型。它允许并发、并行和分布式计算，并直接调用C和Fortran库而不使用粘合代码。
+Julia设计的独特之处包括，参数多态的类型系统，完全动态语言中的类型，以及它多分派的核心编程范型。它允许并发、并行和分布式计算，并直接调用C和Fortran库而不使用粘合代码。
 
 - [Julia 语言官方网站](https://julialang.org/)
 
@@ -94,3 +94,8 @@ julia [options] [program] [args...]
  --check-bounds={yes|no}  Emit bounds checks always or never (ignoring declarations)
  --int-literals={32|64}   Select integer literal size independent of platform
  ```
+
+ ### 应用开发教程
+
+ - [Web 应用开发](https://github.com/shaipe/JuliaTutorial/Tutorial/web.md)
+ 
