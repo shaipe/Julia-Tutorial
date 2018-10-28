@@ -97,5 +97,4 @@ julia [options] [program] [args...]
 
  ### 应用开发教程
 
- - [Web 应用开发](https://github.com/shaipe/JuliaTutorial/Tutorial/web.md)
- 
+ - [Web 应用开发](https://github.com/shaipe/JuliaTutorial/blob/master/tutorial/web.md)
