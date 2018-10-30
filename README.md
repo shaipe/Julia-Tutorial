@@ -98,3 +98,5 @@ julia [options] [program] [args...]
  ### 应用开发教程
 
  - [Web 应用开发](https://github.com/shaipe/JuliaTutorial/blob/master/tutorial/web.md)
+
+ - [模块学习资源](https://github.com/svaksha/Julia.jl)
