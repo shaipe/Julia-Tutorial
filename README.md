@@ -1,6 +1,13 @@
-# Julia Language 
+ 
 
-![julia](https://julialang.org/v2/img/logo.svg)
+<p align="center">
+  <a href="http://nginx.org/">
+    <img width="410" src="https://julialang.org/v2/img/logo.svg?sanitize=true" />
+  </a>
+</p>
+
+Julia Language
+---
 
 ## 介绍
 
